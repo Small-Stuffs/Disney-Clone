@@ -3,8 +3,7 @@
     "type": "git",
     "url": "https://cedcodes.github.io/Disney-Clone/"
   },
-  "homepage": "https://cedcodes.github.io/Disney-Clone/"
-  ,
+  "homepage": "https://cedcodes.github.io/Disney-Clone/",
   "name": "disney-plus-clone",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +12,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.3",
